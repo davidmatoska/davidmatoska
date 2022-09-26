@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @davidmatoska
-- 👀 I’m interested in Flutter / Web AR
-- 🌱 I’m currently learning Flutter / AR.js
-- 💞️ I’m looking to collaborate on creating a company
+- 👀 I’m interested in NodeJS / Machine Learning / Flutter and drinking milkshakes
+- 🌱 I’m currently learning NodeJS 
 - 📫 How to reach me : send me a message
 
 <!---
