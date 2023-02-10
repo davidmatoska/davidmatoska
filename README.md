@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidmatoska
-- 👀 I’m interested in NodeJS / Machine Learning / Flutter and drinking milkshakes
-- 🌱 I’m currently learning NodeJS 
+- 👀 I’m interested in Angular + Symfony and drinking milkshakes
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me : send me a message
 
 <!---
