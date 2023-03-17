@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidmatoska
-- 👀 I’m interested in Angular + Symfony and drinking milkshakes
+- 👀 I’m interested in Angular and drinking milkshakes
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me : send me a message
 
