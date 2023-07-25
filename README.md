@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @davidmatoska
-- 👀 I’m interested in Angular and drinking milkshakes
+- 👋 Hi, I’m @davidmatoska („• ֊ •„)
+- 👀 I’m interested in Angular and drinking milkshakes ৻(  •̀ ᗜ •́  ৻)
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me : send me a message
 
