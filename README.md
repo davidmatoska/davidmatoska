@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @davidmatoska („• ֊ •„)
-- 👀 I’m interested in React and drinking milkshakes ৻(  •̀ ᗜ •́  ৻)
+- 👀 I’m interested in React ৻(  •̀ ᗜ •́  ৻)
